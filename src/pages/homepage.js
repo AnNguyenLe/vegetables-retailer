@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Header = () => {
+const Homepage = () => {
     return (
         <div className="home-page">This is a home page</div>
     )
 }
 
-export default Header;
+export default Homepage;
